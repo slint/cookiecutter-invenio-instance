@@ -1,5 +1,5 @@
 {
-    "project_name": "My site",
+    "project_name": "My Repository",
     "project_shortname": "{{ cookiecutter.project_name | lower | replace(' ', '-') }}",
     "project_site": "{{ cookiecutter.project_shortname }}.com",
     "package_name": "{{ cookiecutter.project_shortname | replace('-', '_') }}",
